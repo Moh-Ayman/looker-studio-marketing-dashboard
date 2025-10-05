@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and environment files
+.idea/
+.vscode/
+*.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Large data files (optional, but good practice if files are >100MB)
+# data/raw/*.csv
